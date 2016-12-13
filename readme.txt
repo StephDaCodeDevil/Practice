@@ -1,0 +1,1 @@
+I tried all sorts of ways to make this program work per the instructions, but I believe the array I created is not storing numbers properly. I believe what is happening is that instead of storing the user number “n” as the mere length of the list, it’s also acting as a benchmark to compare of my “j" iterations as well.
